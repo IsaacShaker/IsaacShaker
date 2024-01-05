@@ -29,7 +29,7 @@ I am an engineer from Pittsburgh, PA :cityscape:
 
 <!--
 ------------------------------------------------------------------------------------------------------------------------------------------
-<!-- Github Stats --
+<!-- Github Commit Stats --
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=isaacshaker&show_icons=true&theme=material-palenight"/>
@@ -67,7 +67,7 @@ I am an engineer from Pittsburgh, PA :cityscape:
   <!-- M -->
   <img alt="MySQL" src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <!-- N -->
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <!-- O -->
   <!-- P -->
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
@@ -96,17 +96,34 @@ I am an engineer from Pittsburgh, PA :cityscape:
 ------------------------------------------------------------------------------------------------------------------------------------------
 ### Acknowledgments
 
-<a href="https://shields.io/badges/static-badge">Shields Badges</a> |
-<a href="https://simpleicons.org/">Shields Icons Web</a>, 
-<a href="https://github.com/simple-icons/simple-icons/blob/master/slugs.md">(Github)</a> |
-<a href="https://github.com/anuraghazra/github-readme-stats">Github Stats</a> |
-<a href="https://giphy.com/">Giphy</a>
+<!-- Nice looking colored skills badges -->
+<a href="https://shields.io/badges/static-badge">
+  <img alt="Shields.io Badges" src="https://img.shields.io/badge/Shields.io_Badges-000000?style=for-the-badge&logo=shieldsdotio&logoColor=white">
+</a>
+<!-- icons for the badges -->
+<a href="https://simpleicons.org/">
+  <img alt="Simple Icons" src="https://img.shields.io/badge/Simple_Icons-000000?style=for-the-badge&logo=shieldsdotio&logoColor=white">
+</a>
+<!-- GitHub repository of icons -->
+<a href="https://github.com/simple-icons/simple-icons/blob/master/slugs.md">
+  <img alt="Simple Icons" src="https://img.shields.io/badge/Simple_Icons-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<!-- GitHub repository for profile stats (commit grade and top languages -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="anuraghazra - Github Stats" src="https://img.shields.io/badge/anuraghazra_(Github_Stats)-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<!-- website for finding GIFs -->
+<a href="https://giphy.com/">
+  <img alt="GIPHY" src="https://img.shields.io/badge/GIPHY-FF6666?style=for-the-badge&logo=giphy&logoColor=white">
+</a>
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 <!-- Viewer & Follower Count -->
 
 <div>
+  <!-- Viewers -->
   <img src="https://komarev.com/ghpvc/?username=IsaacShaker&style=flat-square&color=blue" alt="profile views counter"/>
   &nbsp;
+  <!-- Followers -->
   <img src="https://img.shields.io/github/followers/IsaacShaker?label=Follow%20Me%21&style=social" alt="followers counter"/>
 </div>
