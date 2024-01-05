@@ -5,11 +5,11 @@
   
    <div id="badges">
      <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/isaacshaker/">
+    <a href="https://www.linkedin.com/in/isaacshaker/ target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
      <!-- Personal Website -->
-    <a href="https://isaacshaker.github.io/Isaac-Says-Hi/">
+    <a href="https://isaacshaker.github.io/Isaac-Says-Hi/" target="_blank">
       <img alt="Portfolio Website" src="https://img.shields.io/badge/My_Website-black?style=for-the-badge&logo=&logoColor=white">
     </a>
   </div>
@@ -97,23 +97,23 @@ I am an engineer from Pittsburgh, PA :cityscape:
 ### Acknowledgments
 
 <!-- Nice looking colored skills badges -->
-<a href="https://shields.io/badges/static-badge">
+<a href="https://shields.io/badges/static-badge" target="_blank">
   <img alt="Shields.io Badges" src="https://img.shields.io/badge/Shields.io_Badges-000000?style=for-the-badge&logo=shieldsdotio&logoColor=white">
 </a>
 <!-- icons for the badges -->
-<a href="https://simpleicons.org/">
+<a href="https://simpleicons.org/" target="_blank">
   <img alt="Simple Icons" src="https://img.shields.io/badge/Simple_Icons-000000?style=for-the-badge&logo=shieldsdotio&logoColor=white">
 </a>
 <!-- GitHub repository of icons -->
-<a href="https://github.com/simple-icons/simple-icons/blob/master/slugs.md">
+<a href="https://github.com/simple-icons/simple-icons/blob/master/slugs.md" target="_blank">
   <img alt="Simple Icons" src="https://img.shields.io/badge/Simple_Icons-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <!-- GitHub repository for profile stats (commit grade and top languages -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img alt="anuraghazra - Github Stats" src="https://img.shields.io/badge/anuraghazra_(Github_Stats)-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <!-- website for finding GIFs -->
-<a href="https://giphy.com/">
+<a href="https://giphy.com/" target="_blank">
   <img alt="GIPHY" src="https://img.shields.io/badge/GIPHY-FF6666?style=for-the-badge&logo=giphy&logoColor=white">
 </a>
 
